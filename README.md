@@ -14,11 +14,13 @@
 ---
 
 ## 💼 Experience
-- **Internship – Data Analytics**
-  - Worked with real-world datasets and databases
-  - Assisted with data processing, validation, and analysis tasks
+- **Internship – Data Analytics**  
+  *Toyota Tsusho NEXTY Electronics (Thailand) Co., Ltd.*
+  - Worked with sales and inventory datasets
+  - Analyzed sales performance and identified gaps and missed opportunities
+  - Performed regression analysis to characterize customer, supplier, and manufacturer behavior patterns
   - Applied machine learning techniques to predict end-of-life of product parts
-  - Gained exposure to secure system workflows and technical documentation
+  - Consolidated analysis results and presented findings to managers from sales, inventory, and finance departments
 
 ---
 
