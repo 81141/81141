@@ -2,7 +2,7 @@
 
 🎓 Computer Science student  
 🔐 Interested in cybersecurity, systems, machine learning, and data analytics  
-🛠 Currently working with Rust, Python, SQL, and Linux  
+🛠 Currently working with Python, C, C++
 
 ---
 
