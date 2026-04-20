@@ -1,46 +1,51 @@
-# Hello, I'm Hanna 👋
+Hello, I'm Hanna 👋
+🎓 Computer Science student | Aspiring Security Analyst
 
-🎓 Computer Science student  
-🔐 Interested in cybersecurity, systems, machine learning, and data analytics  
-🛠 Currently working with Python, C, C++
-
----
-
-## 🔧 Tech Stack
-- **Languages:** Python, Java, C, C++, Rust, Scala  
-- **Databases:** PostgreSQL, TimescaleDB, MongoDB  
-- **Tools:** Git, Docker, Linux, Metasploit (basics)  
+🔐 Interested in Security Operations (SOC), threat detection, and log analysis
+🛠 Focused on SIEM (Splunk), security monitoring, and incident investigation
 
 ---
 
-## 💼 Experience
-- **Internship – Data Analytics**  
-  *Toyota Tsusho NEXTY Electronics (Thailand) Co., Ltd.*
-  - Worked with sales and inventory datasets
-  - Analyzed sales performance and identified gaps and missed opportunities
-  - Performed regression analysis to characterize customer, supplier, and manufacturer behavior patterns
-  - Applied machine learning techniques to predict end-of-life of product parts
-  - Consolidated analysis results and presented findings to managers from sales, inventory, and finance departments
+🔧 Tech Stack
+Languages: Python, SQL, Java, C/C++
+Security: SIEM (Splunk), Log Analysis, Threat Detection, MITRE ATT&CK
+Tools: Git, Docker, Linux, Nmap, Burp Suite 
 
 ---
 
-## 📌 Featured Projects
-- 🖼 **Image Compression (Rust)**  
-  Parallel PNG compression using Huffman coding and LZ77
+💼 Experience
+Internship – Data Analytics
+Toyota Tsusho NEXTY Electronics (Thailand) Co., Ltd.
 
-- 🛡 **Cybersecurity Projects (with ML)**  
-  Pentesting labs covering web and system-level vulnerabilities, with exploratory use of machine learning for security-related data analysis
-
-- 🗄 **Database Projects**  
-  Schema design and data migration from InfluxDB to TimescaleDB
+* Analyzed operational data using Python and SQL to identify anomalies
+* Applied data analysis techniques to detect abnormal patterns
+* Built reports to support monitoring and decision-making
 
 ---
 
-## 🌱 Currently Learning
-- Web and system-level security vulnerabilities
-- Pentesting methodologies and tooling
-- Data handling and analysis for security use cases
-- Secure system designs (SIEM)
-- increasing proficiency with tools (burpsuite, OpenVas, hydra, nexsus, bloodhound)
+📌 Featured Projects
 
-📫 Reach me at: **hahnhanna80@gmail.com**
+🛡 SOC Threat Detection with Splunk
+
+* Built a SIEM lab using Splunk to analyze Windows Security logs
+* Developed detection rules for brute force, account discovery, and suspicious processes
+* Investigated simulated attacks using Atomic Red Team
+* Created dashboards to visualize attack patterns and timelines
+
+🗄 Database Migration Project
+
+* Migrated time-series data from InfluxDB to TimescaleDB
+* Optimized queries and improved system performance
+
+---
+
+🌱 Currently Learning
+
+* Threat detection and alert triage
+* Incident investigation techniques
+* Detection engineering concepts
+* Improving SIEM (Splunk) skills
+
+---
+
+📫 Reach me at: [hahnhanna80@gmail.com](mailto:hahnhanna80@gmail.com)
